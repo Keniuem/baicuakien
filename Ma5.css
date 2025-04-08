@@ -1,0 +1,33 @@
+.column
+{
+    width: 25%;
+    float: left;
+}
+.Sanpham
+{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.Sanpham.Ten
+{
+    font-size: larger;
+    font-variant: small-caps;
+    color: blue;
+}
+.Sanpham img
+{
+    max-width: 95%;
+}
+.Sanpham.Gia
+{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.Sanpham.Gia del
+{
+    color: gray;
+}
